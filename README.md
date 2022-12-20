@@ -4,8 +4,6 @@
 - [Javascript](https://www.javascript.com/)
 - [MySQL](https://www.mysql.com/)
 
-<p align="right">(<a href="#top">back to top</a>)</p>
-
 <!-- GETTING STARTED -->
 ## Getting Started
 
