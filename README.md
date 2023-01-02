@@ -1,8 +1,8 @@
 ### Kelompok 2
-Karuna Dewa Satyananda		   1301204295
-Ahmad Fasya Adila			      1301204231
-Raden Fasya Mazaya Putri 	   1301200390
-Muhammad Satrio Tri Nugraha 	1301204045
+- Karuna Dewa Satyananda		   1301204295
+- Ahmad Fasya Adila			      1301204231
+- Raden Fasya Mazaya Putri 	   1301200390
+- Muhammad Satrio Tri Nugraha 	1301204045
 
 ### Built With
 
