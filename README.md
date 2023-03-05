@@ -1,8 +1,8 @@
 Made by:
-- Karuna Dewa Satyananda		   1301204295
-- Ahmad Fasya Adila			      1301204231
-- Raden Fasya Mazaya Putri 	   1301200390
-- Muhammad Satrio Tri Nugraha 	1301204045
+- Karuna Dewa Satyananda		   
+- Ahmad Fasya Adila			      
+- Raden Fasya Mazaya Putri 	   
+- Muhammad Satrio Tri Nugraha 	
 
 ### Built With
 
